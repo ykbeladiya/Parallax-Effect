@@ -54,7 +54,7 @@ Parallax-Effect/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/Parallax-Effect.git
+git clone https://github.com/ykbeladiya/Parallax-Effect.git
 ```
 
 2. Open `index.html` in your browser to view the project locally.
